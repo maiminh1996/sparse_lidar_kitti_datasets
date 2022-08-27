@@ -1,0 +1,27 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Mai"
+  given-names: "Nguyen Anh Minh"
+  orcid: "https://orcid.org/0000-0001-9672-8909"
+- family-names: "Duthon"
+  given-names: "Pierre"
+  orcid: "https://orcid.org/0000-0002-6705-1131"
+- family-names: "Khoudour"
+  given-names: "Louahdi"
+  orcid: "https://orcid.org/0000-0002-5947-4302"
+- family-names: "Crouzil"
+  given-names: "Alain"
+  orcid: "https://orcid.org/0000-0001-7040-2978"
+- family-names: "A. Velastin"
+  given-names: "Sergio"
+  orcid: "https://orcid.org/0000-0001-6775-7137"
+- family-names: "Houssam SALMANE"
+  given-names: "Pascal"
+  orcid: "https://orcid.org/0000-0002-5947-4302"
+
+title: "My Research Sparse LiDAR KITTI Datasets"
+version: 0.0.1
+date-released: 2022-08-27
+url: "https://github.com/maiminh1996/sparse_lidar_kitti_datasets"
